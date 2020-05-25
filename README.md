@@ -565,7 +565,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Stack
     - [X] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
     - [X] [Using Stacks Last-In First-Out (video)](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
-    - [X] implemented using a linked list 
+    - [X] Will not implement. Implementing with array is trivial.
 
 - ### Queue
     - [ ] [Using Queues First-In First-Out(video)](https://archive.org/details/0102WhatYouShouldKnow/05_03-usingQueuesForFirst-inFirst-out.mp4)
@@ -656,7 +656,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Trees - Notes & Background
     - [X] [Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
-    - [ ] [Series: Trees (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
+    - [X] [Series: Trees (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
     - basic tree construction
     - traversal
     - manipulation algorithms
